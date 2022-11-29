@@ -19,7 +19,7 @@ const to = () => {
 }
 
 const updateName = () => {
-    store.commit('user/updateUname', Date.now())
+    store.commit('user/updateUname', Date.now() + 1)
 }
 
 </script>
