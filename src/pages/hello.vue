@@ -10,7 +10,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>Hello</h1>
+  <h1>Hello 博客</h1>
 </template>
 
 <style scoped>
